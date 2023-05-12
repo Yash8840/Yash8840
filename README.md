@@ -1,14 +1,12 @@
 Hi 👋 My name is Yash Shekhar
 =============================
 
-Programmer
+Frontend Web-developer
 ----------
-
-I've started learning JAVA a few months ago and i'm in love with it now, I love Competetive programming and try to participate in any coding competition i can find out there.
 
 * 🌍  I'm based in india, uttar pradesh
 * ✉️  You can contact me at [rajat15004@gmail.com](mailto:rajat15004@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning React.js and Firebase
 
 ### Skills
 
