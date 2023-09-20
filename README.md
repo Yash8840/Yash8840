@@ -6,7 +6,7 @@ Frontend Web-developer
 
 * 🌍  I'm based in india, uttar pradesh
 * ✉️  You can contact me at [rajat15004@gmail.com](mailto:rajat15004@gmail.com)
-* 🧠  I'm learning React.js and Firebase
+* 🧠  I'm proficient in React.js and Firebase
 
 ### Skills
 
